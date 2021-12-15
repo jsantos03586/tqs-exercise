@@ -1,0 +1,15 @@
+{
+  "name": "tqsexercisecucumber",
+  "version": "1.0.0",
+  "description": "This project has the exercise for the TQS class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.1"
+  }
+}
